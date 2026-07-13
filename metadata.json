@@ -1,0 +1,6 @@
+{
+  "name": "Rodela Companion",
+  "description": "Research Companion for the Rodela Health Care Engine v2 - an autonomous, zero-shot medical diagnostic engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
